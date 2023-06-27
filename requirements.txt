@@ -1,0 +1,11 @@
+certifi==2023.5.7
+charset-normalizer==3.1.0
+flake8==6.0.0
+idna==3.4
+load-dotenv==0.1.0
+mccabe==0.7.0
+pycodestyle==2.10.0
+pyflakes==3.0.1
+python-dotenv==1.0.0
+requests==2.31.0
+urllib3==2.0.3
